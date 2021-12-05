@@ -1,5 +1,7 @@
 # NLP-101questions
 About NLP interview 101 questions
+<b>
+<pre>
 nlp技术范围 ：   问题描述
 
 文本表示	：什么是词嵌入？
@@ -115,3 +117,6 @@ nlp专业基础：在样本量较少的情况下如何扩充样本数量？
 机器学习nlp	：	介绍一下逻辑回归和线性回归
 文本表示	：词向量发展历史：one-hot、NNLM、word2vec、glove、fasttext、ELMO、CoVE、GPT、BERT、ERNIE、ERNIE 2.0、bert-wwm、roberta、xlnet
 深度学习	：	GPT/BERT 中分别是怎么用 Transformer 的？
+
+</pre>
+</b>
